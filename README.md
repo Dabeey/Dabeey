@@ -11,23 +11,32 @@
 
 ---
 
-### 🎯 **Current Missions**
-```diff
-+ 🧪 Build. Slay. Deploy. Repeat.
-+ 🏋️‍♀️ Strengthening my SQL muscles (PostgreSQL > gym membership)
-+ 🤖 Automating my life (one script at a time)
-🛠️ Tech Toolbox
-Category	Skills	Vibe
-🐍 Python	OOP, Scripting, Tkinter	"My love language"
-🕸️ Web	BeautifulSoup, Selenium	"Professional stalker (of data)"
-🗃️ Databases	SQLite, Redis (learning PG)	"Relationship with tables >>"
-🌟 Project Showcase
-🐍 Snake Game
-"Nostalgia coded with CSV high scores"
+# ✨ Build. Slay. Deploy. Repeat. ✨
 
-python
-# Why it slaps:  
-- High scores saved like a hall of fame 🏆  
+### 🚀 Current Focus
+- 🧪 **Building** my first Flask API  
+- 🏋️‍♀️ **Strengthening** my SQL muscles *(PostgreSQL > gym membership)*  
+- 🤖 **Automating** my life *(one script at a time)*  
+
+---
+
+### 🛠️ Tech Toolbox
+| **Category**  | **Skills**                     | **Vibe**                          |
+|--------------|-------------------------------|----------------------------------|
+| 🐍 Python    | OOP, Scripting, Tkinter       | *"My love language"*             |
+| 🕸️ Web      | BeautifulSoup, Selenium       | *"Professional data stalker"*    |
+| 🗃️ Databases| SQLite, Redis (learning PG)   | *"Relationship with tables >>"*  |
+
+---
+
+### 🌟 Project Showcase
+
+#### 🐍 Snake Game  
+*"Nostalgia coded with CSV high scores"*  
+```python
+# Why it slaps:
+- Used curses library for terminal magic
+- High scores saved like a hall of fame 🏆
 View Code
 
 ☕ Coffee Machine Simulator
@@ -35,21 +44,18 @@ View Code
 
 python
 # Highlights:
-- Classes for Menu/Ingredients 💅  
-- Money tracking like a CFO 💰  
+- Classes for Menu/Ingredients 💅
+- Money tracking like a CFO 💰
 Try It
 
-🤖 Web Scraper + Auto Form Filler
+🤖 Web Scraper
 "The ultimate lazy-girl script"
 
 python
 # Secret sauce:
-- BS4 for clean data extraction 🧼  
-- Selenium for *aggressive* form filling 📝  
-
-
-Fun Facts:
-
+- BS4 for clean data extraction 🧼
+- Selenium for aggressive forms 📝
+💫 Fun Facts
 Backend is my soft life 💅
 
 Frontend? Maybe in 3023 ⌛
