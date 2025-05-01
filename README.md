@@ -33,9 +33,9 @@
 *"Nostalgia coded with CSV high scores"*  
 ```python
 # Why it slaps:
-- Used curses library for terminal magic
 - High scores saved like a hall of fame 🏆
 View Code
+```
 
 #### ☕ Coffee Machine Simulator
 "OOP masterpiece fueling devs worldwide"
@@ -44,7 +44,7 @@ View Code
 # Highlights:
 - Classes for Menu/Ingredients 💅
 - Money tracking like a CFO 💰
-Try It
+```
 
 #### 🤖 Web Scraper
 "The ultimate lazy-girl script"
@@ -53,6 +53,7 @@ Try It
 # Secret sauce:
 - BS4 for clean data extraction 🧼
 - Selenium for aggressive forms 📝
+```
 
 💫 Fun Facts
 Backend is my soft life 💅
