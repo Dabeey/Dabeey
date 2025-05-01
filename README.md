@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dabeey&show_icons=true&theme=radical&hide_border=true)](https://github.com/Dabeey)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dabeey&show_icons=true&theme=radical&hide_border=true)](https://github.com/Dabeey)
   [![Profile Views](https://komarev.com/ghpvc/?username=Dabeey&color=ff69b4&style=flat)](https://github.com/Dabeey)
 </p>
 
@@ -28,8 +28,8 @@
 | 🐍 Python    | OOP, Scripting, Tkinter       | *"My love language"*             |
 | 🕸️ Web      | BeautifulSoup, Selenium       | *"Professional data stalker"*    |
 | 🗃️ Databases| SQLite, Redis (learning PG)   | *"Relationship with tables >>"*  |
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical&hide_border=true)](https://github.com/Dabeey)
 ---
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical&hide_border=true)](https://github.com/Dabeey)
 
 ### 🌟 Project Showcase
 
