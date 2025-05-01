@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔥🌙💿 Your Favorite Backend Girl 🌀💋🌸  
+  🤍 ✨Your Favorite Backend Girl 🌸 💎 
   <br> 
   <sub><em>Python backend baddie in the making</em></sub>
 </h1>
@@ -12,7 +12,6 @@
 ---
 
 ### 🚀 Current Focus
-- ✨ Build. Slay. Deploy. Repeat. ✨
 - 🏋️‍♀️ **Strengthening** my SQL muscles *(PostgreSQL > gym membership)*  
 - 🤖 **Automating** my life *(one script at a time)*  
 
@@ -62,4 +61,4 @@ Frontend? Maybe in 3023 ⌛
 
 Student by day, Backend Queen by night 🔮
 
-<p align="center"> 📬 <strong>Slide into my DMs for:</strong><br> Collabs | Prayer Requests | Tech Rants<br> <a href="https://twitter.com/yourfavbackendgirl">🐦 Twitter</a> | ✉️ Email on request </p><h4 align="center"> "Building in public ‘cause my code is ✨<em>main character</em>✨ energy" </h4> ```
+<p align="center"> 📬 <strong>Slide into my DMs for:</strong><br> Collabs | Prayer Requests | Tech Rants<br> <a href="https://twitter.com/yourfavbackendgirl">🐦 Twitter</a> | ✉️ Email on request </p><h4 align="center"> "✨ Build. Slay. Deploy. Repeat. ✨" </h4> ```
