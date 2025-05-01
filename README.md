@@ -11,10 +11,8 @@
 
 ---
 
-# ✨ Build. Slay. Deploy. Repeat. ✨
-
 ### 🚀 Current Focus
-- 🧪 **Building** my first Flask API  
+- ✨ Build. Slay. Deploy. Repeat. ✨
 - 🏋️‍♀️ **Strengthening** my SQL muscles *(PostgreSQL > gym membership)*  
 - 🤖 **Automating** my life *(one script at a time)*  
 
@@ -39,22 +37,23 @@
 - High scores saved like a hall of fame 🏆
 View Code
 
-☕ Coffee Machine Simulator
+#### ☕ Coffee Machine Simulator
 "OOP masterpiece fueling devs worldwide"
 
-python
+```python
 # Highlights:
 - Classes for Menu/Ingredients 💅
 - Money tracking like a CFO 💰
 Try It
 
-🤖 Web Scraper
+#### 🤖 Web Scraper
 "The ultimate lazy-girl script"
 
-python
+```python
 # Secret sauce:
 - BS4 for clean data extraction 🧼
 - Selenium for aggressive forms 📝
+
 💫 Fun Facts
 Backend is my soft life 💅
 
