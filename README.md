@@ -4,9 +4,6 @@
   <sub><em>Python backend baddie in the making</em></sub>
 </h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dabeey&show_icons=true&theme=radical&hide_border=true)](https://github.com/Dabeey)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dabeey&color=ff69b4&style=flat)](https://github.com/Dabeey)
-
 
 <p align="center">
   <strong>Currently:</strong> 
@@ -28,7 +25,6 @@
 | 🕸️ Web      | BeautifulSoup, Selenium       | *"Professional data stalker"*    |
 | 🗃️ Databases| SQLite, Redis (learning PG)   | *"Relationship with tables >>"*  |
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical)](https://github.com/Dabeey)
 
 ### 🌟 Project Showcase
 
