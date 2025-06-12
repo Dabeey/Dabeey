@@ -1,7 +1,8 @@
-# 👋 Hello, I'm Dabeey 
-
-**Backend Developer | API Specialist | Automation Enthusiast**  
-Passionate about building scalable, secure, and impactful software solutions.
+<p align="center">
+  <h1 align="center">👋 Hello, I'm Dabeey</h1>
+  <h3 align="center"><b>Backend Developer | API Specialist | Automation Enthusiast | YourFavoriteBackendGirl </b></h3>
+  <p align="center">Passionate about building scalable, secure, and impactful software solutions.</p>
+</p>
 
 ---
 
@@ -56,9 +57,8 @@ Passionate about building scalable, secure, and impactful software solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <h1 align="center">👋 Hello, I'm Dabeey</h1>
-  <h3 align="center"><b>Backend Developer | API Specialist | Automation Enthusiast | YourFavoriteBackendGirl</b></h3>
-  <p align="center">Passionate about building scalable, secure, and impactful software solutions.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dabeey&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 ---
@@ -82,4 +82,4 @@ Passionate about building scalable, secure, and impactful software solutions.
 
 ---
 
-> "✨ *Build. Slay. Deploy. Repeat.* ✨"
+> "✨*Build. Slay. Deploy. Repeat.* ✨" - _Your Favorite Backend Girl_ 🌸
