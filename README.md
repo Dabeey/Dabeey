@@ -1,75 +1,85 @@
-# 👋 Hello, I'm Dabeey - a Backend Developer passionate about scalable, secure, and impactful software.
+# 👋 Hello, I'm Dabeey 
 
-🔌 **Currently working with:** Python | FastAPI | PostgreSQL  
-🧠 **Learning:** Node.js, JavaScript, Docker & CI/CD  
-📌 **Focus Areas:** API development, database architecture, task automation
-
----
-
-## 🔧 Tech Stack
-| Category | Tools & Frameworks |
-|---------|--------------------|
-| 🐍 Languages | Python, JavaScript (learning) |
-| 🧱 Backend | FastAPI, Flask, Node.js (beginner) |
-| 🗃️ Databases | PostgreSQL, SQLite, Redis |
-| 🧪 Tools | Git, Docker, VSCode |
-| ☁️ Exploring | AWS (basics), CI/CD pipelines |
-
+**Backend Developer | API Specialist | Automation Enthusiast**  
+Passionate about building scalable, secure, and impactful software solutions.
 
 ---
 
+## 🛠️ Tech Stack
 
-## 📂 Featured Projects
+### 📜 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ✅ GET-IT-DONE (AI Task Manager App)  
-**Python | FastAPI | AI Integration**  
-An intelligent to-do app powered by AI suggestions and natural language input.  
-Helps users organize tasks smartly with prioritization, due dates, and productivity streaks.
+### 🧱 Frameworks & Platforms
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-➡️ [Repo Link](https://github.com/Dabeey/GET-IT-DONE-)
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+
+## 🚀 Featured Projects
+
+### ✅ GET-IT-DONE (AI Task Manager)  
+**`Python` `FastAPI` `AI Integration`**  
+✨ Intelligent to-do app with AI suggestions and NLP input  
+📌 Features: Smart prioritization, due dates, productivity streaks  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dabeey/GET-IT-DONE-)
 
 ### 📁 Premium Bulk File Renamer PRO  
-**Python | Tkinter | Automation**  
-GUI tool that renames hundreds of files in seconds. Built for digital organization.  
-Handles naming conventions, extensions, and live previews.
-
-➡️ [Repo Link](https://github.com/Dabeey/premium-bulk-file-renamer-pro)
-
----
+**`Python` `Tkinter` `Automation`**  
+⚡ GUI tool for batch renaming hundreds of files instantly  
+📌 Features: Custom naming conventions, extensions handling, live previews  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dabeey/premium-bulk-file-renamer-pro)
 
 ### 🤖 Simple Grok Chatbot  
-**Python | Regex | NLP Basics**  
-Minimal chatbot trained with rule-based responses. Simple interface but expandable logic — great for practicing state handling and NLP 101.
-
-➡️ [Repo Link](https://github.com/Dabeey/simple_grok_chatbot)
+**`Python` `Regex` `NLP Basics`**  
+💬 Minimal chatbot with rule-based responses  
+📌 Great for practicing state handling and NLP fundamentals  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dabeey/simple_grok_chatbot)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical" width="50%" />
+  <h1 align="center">👋 Hello, I'm Dabeey</h1>
+  <h3 align="center"><b>Backend Developer | API Specialist | Automation Enthusiast | YourFavoriteBackendGirl</b></h3>
+  <p align="center">Passionate about building scalable, secure, and impactful software solutions.</p>
 </p>
 
 ---
 
-## 💫 About Me
+## 🌟 About Me
 
-🎯 Backend-focused with frontend curiosity  
-🛐 Faith-driven, purpose-led  
-📈 Learning in public and sharing the journey  
-📩 Let’s build together
-
-📬 **Contact**  
-- 📧 Email: abbasdaughter18@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dabeey-mercy-6408a3321)  
-- 🐦 [X (formerly Twitter)](https://x.com/dev_dabeey?t=pNwNaDpqxAUkMJizdwxCNQ&s=09)  
-- 📸 [Instagram](https://www.instagram.com/dev_dabeey)
-
-> “✨ _"Build. Slay. Deploy. Repeat."_
-
+- 🎯 **Focus:** Backend development with growing frontend curiosity
+- 🌱 **Currently Learning:** Node.js, Docker, CI/CD pipelines
+- ✝️ **Values:** Faith-driven, purpose-led development
+- 📢 **Approach:** Learning in public and sharing the journey
+- 🤝 **Collaboration:** Open to building meaningful projects together
 
 ---
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdaughter18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dabeey-mercy-6408a3321)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_dabeey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_dabeey)
+
+---
+
+> "✨ *Build. Slay. Deploy. Repeat.* ✨"
