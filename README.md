@@ -1,22 +1,23 @@
-# 💎 Dabeey — Backend Developer | API Builder | Kingdom Girl
+# 👋 Hello, I'm Dabeey - a Backend Developer passionate about scalable, secure, and impactful software.
 
-🔧 Pythonic problem-solver passionate about building reliable backend systems that scale.  
-💻 Currently working with FastAPI, PostgreSQL, and Node.js. Slowly blending React for full-stack flexibility.  
-📚 I build, I document, I grow — one repo at a time.
+🔌 **Currently working with:** Python | FastAPI | PostgreSQL  
+🧠 **Learning:** Node.js, JavaScript, Docker & CI/CD  
+📌 **Focus Areas:** API development, database architecture, task automation
+
+---
+
+## 🔧 Tech Stack
+| Category | Tools & Frameworks |
+|---------|--------------------|
+| 🐍 Languages | Python, JavaScript (learning) |
+| 🧱 Backend | FastAPI, Flask, Node.js (beginner) |
+| 🗃️ Databases | PostgreSQL, SQLite, Redis |
+| 🧪 Tools | Git, Docker, VSCode |
+| ☁️ Exploring | AWS (basics), CI/CD pipelines |
+
 
 ---
 
-## 🚀 Tech Stack & Learning Path
-
-| Tech             | Skill Level        | Note                               |
-|------------------|--------------------|------------------------------------|
-| 🐍 Python         | Advanced            | Primary backend language            |
-| ⚡ FastAPI        | Actively using      | Fast, modern APIs                   |
-| 🗃️ PostgreSQL     | Learning            | Replacing SQLite/Redis for depth   |
-| 📦 Node.js/JS     | Learning            | For backend versatility             |
-| ⚛️ React          | Exploring           | Slow dive into frontend             |
-
----
 
 ## 📂 Featured Projects
 
@@ -25,7 +26,7 @@
 An intelligent to-do app powered by AI suggestions and natural language input.  
 Helps users organize tasks smartly with prioritization, due dates, and productivity streaks.
 
-🔗 [Repo Link](https://github.com/Dabeey/GET-IT-DONE-)
+➡️ [Repo Link](https://github.com/Dabeey/GET-IT-DONE-)
 
 ---
 
@@ -34,7 +35,7 @@ Helps users organize tasks smartly with prioritization, due dates, and productiv
 GUI tool that renames hundreds of files in seconds. Built for digital organization.  
 Handles naming conventions, extensions, and live previews.
 
-🔗 [Repo Link](https://github.com/Dabeey/premium-bulk-file-renamer-pro)
+➡️ [Repo Link](https://github.com/Dabeey/premium-bulk-file-renamer-pro)
 
 ---
 
@@ -42,15 +43,15 @@ Handles naming conventions, extensions, and live previews.
 **Python | Regex | NLP Basics**  
 Minimal chatbot trained with rule-based responses. Simple interface but expandable logic — great for practicing state handling and NLP 101.
 
-🔗 [Repo Link](https://github.com/Dabeey/simple_grok_chatbot)
+➡️ [Repo Link](https://github.com/Dabeey/simple_grok_chatbot)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dabeey&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
@@ -60,7 +61,7 @@ Minimal chatbot trained with rule-based responses. Simple interface but expandab
 🎯 Backend-focused with frontend curiosity  
 🛐 Faith-driven, purpose-led  
 📈 Learning in public and sharing the journey  
-📩 Let’s build — or pray — together
+📩 Let’s build together
 
 📬 **Contact**  
 - 📧 Email: abbasdaughter18@gmail.com  
@@ -68,4 +69,7 @@ Minimal chatbot trained with rule-based responses. Simple interface but expandab
 - 🐦 [X (formerly Twitter)](https://x.com/dev_dabeey?t=pNwNaDpqxAUkMJizdwxCNQ&s=09)  
 - 📸 [Instagram](https://www.instagram.com/dev_dabeey)
 
-> “✨ Build boldly. Learn deeply. Ship faithfully. ✨”
+> “✨ _"Build. Slay. Deploy. Repeat."_
+
+
+---
