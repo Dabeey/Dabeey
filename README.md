@@ -1,7 +1,8 @@
 <p align="center">
-  <h1 align="center">👋 Hello, I'm Dabeey</h1>
-  <h3 align="center"><b>Backend Developer | API Specialist | Automation Enthusiast | YourFavoriteBackendGirl </b></h3>
-  <p align="center">Passionate about building scalable, secure, and impactful software solutions.</p>
+  <img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="Rocket Icon" />
+  <h1 align="center">🚀 Dabeey
+  <h3 align="center">Backend Developer | API Specialist | Automation Enthusiast | YourFavoriteBackendGirl</h1></h3>
+  <p align="center">Passionate about building scalable, secure, and production-ready backend systems. I design APIs, manage databases, implement business logic, and automate tasks efficiently.</p>
 </p>
 
 ---
@@ -15,9 +16,12 @@
 
 ### 🧱 Frameworks & Platforms
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### 🗃️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,28 +33,43 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✅ GET-IT-DONE (AI Task Manager)  
-**`Python` `FastAPI` `AI Integration`**  
-✨ Intelligent to-do app with AI suggestions and NLP input  
-📌 Features: Smart prioritization, due dates, productivity streaks  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dabeey/GET-IT-DONE-)
+### 1️⃣ API-Tests
+**Python | API Automation | CI/CD**  
+Automated API testing scripts with Python. Includes Postman collections and GitHub Actions integration.  
+📌 [View Repo](https://github.com/Dabeey/API-Tests)
 
-### 📁 Premium Bulk File Renamer PRO  
-**`Python` `Tkinter` `Automation`**  
-⚡ GUI tool for batch renaming hundreds of files instantly  
-📌 Features: Custom naming conventions, extensions handling, live previews  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dabeey/premium-bulk-file-renamer-pro)
+### 2️⃣ Playwright_Tests
+**Python (via Playwright) | Browser Automation**  
+Automated web workflows and UI testing for scraping and automation tasks.  
+📌 [View Repo](https://github.com/Dabeey/Playwright_Tests)
 
-### 🤖 Simple Grok Chatbot  
-**`Python` `Regex` `NLP Basics`**  
-💬 Minimal chatbot with rule-based responses  
-📌 Great for practicing state handling and NLP fundamentals  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dabeey/simple_grok_chatbot)
+### 3️⃣ Live-Score Automation *(Coming Soon)*
+**Python | Requests & Selenium | Sports Scraper**  
+Scrapes live sports scores and betting data, outputs JSON/CSV for analytics.  
+📌 [View Repo](#) *(replace with GitHub link once created)*
+
+### 4️⃣ GET-IT-DONE
+**Python | FastAPI | AI Integration**  
+Backend for intelligent task management with AI suggestions and NLP input.  
+📌 [View Repo](https://github.com/Dabeey/GET-IT-DONE)
+
+### 🌐 E-Commerce API
+**Tech**: Django, FastAPI, PostgreSQL, JavaScript  
+A robust API for e-commerce platforms, handling carts and payments efficiently.  
+**Features**: RESTful endpoints, JWT authentication, real-time inventory syncing.  
+
+### 🕵️‍♀️ Web Scraper Pro
+**Tech**: Python, BeautifulSoup, Selenium  
+A scraper that extracts web data effectively.  
+**Features**: Dynamic content handling, pagination, JSON/CSV exports.  
 
 ---
 
@@ -58,28 +77,31 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dabeey&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeey&layout=compact&theme=radical&hide=c%2B%2B" alt="Top Languages" width="45%"/>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎯 **Focus:** Backend development with growing frontend curiosity
-- 🌱 **Currently Learning:** Node.js, Docker, CI/CD pipelines
-- ✝️ **Values:** Faith-driven, purpose-led development
-- 📢 **Approach:** Learning in public and sharing the journey
-- 🤝 **Collaboration:** Open to building meaningful projects together
+- **Mission**: Crafting backend systems and automation pipelines that scale effectively.  
+- **Current Quest**: Leveling up with Node.js, Docker, and CI/CD for efficient deployments.  
+- **Automation Focus**: Using Selenium, Playwright, and Cypress for reliable testing.  
+- **Values**: Faith-driven, purpose-led, coding for impact.  
+- **Approach**: Build efficiently, ensure reliability, innovate continuously.  
+
+## 🌱 Currently Learning
+- Microservices architecture & scalable systems  
+- Cloud deployment (AWS / GCP)  
+- CI/CD pipelines and automated testing  
 
 ---
 
 ## 📬 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdaughter18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dabeey-mercy-6408a3321)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_dabeey)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_dabeey)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdaughter18@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dabeey-mercy-6408a3321)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_dabeey)  
 
 ---
 
-> "✨*Build. Slay. Deploy. Repeat.* ✨" - _Your Favorite Backend Girl_ 🌸
+> ✨ *Minimal fluff. Maximum action. Python backend & automation ready for production.* 🌸
