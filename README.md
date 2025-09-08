@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="Rocket Icon" />
-  <h1 align="center">🚀 Dabeey
+  <h1 align="center">👋 Hi, I'm Dabeey
   <h3 align="center">Backend Developer | API Specialist | Automation Enthusiast | YourFavoriteBackendGirl</h1></h3>
   <p align="center">Passionate about building scalable, secure, and production-ready backend systems. I design APIs, manage databases, implement business logic, and automate tasks efficiently.</p>
 </p>
