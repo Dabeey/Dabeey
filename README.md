@@ -40,32 +40,37 @@
 
 ## 🚀 Featured Projects
 
-### 1️⃣ API-Tests
+### 1️⃣ API Tests
 **Python | API Automation | CI/CD**  
 Automated API testing scripts with Python. Includes Postman collections and GitHub Actions integration.  
 📌 [View Repo](https://github.com/Dabeey/API-Tests)
 
-### 2️⃣ Playwright_Tests
+### 2️⃣Simple API Fetcher
+**Python | Requests | Pandas | Matplotlib**  
+Automates sports league data fetching and analytics with Python  
+📌 [View Repo](https://github.com/Dabeey/simple-api-fetcher)  
+
+### 3️⃣ Playwright Tests
 **Python (via Playwright) | Browser Automation**  
 Automated web workflows and UI testing for scraping and automation tasks.  
 📌 [View Repo](https://github.com/Dabeey/Playwright_Tests)
 
-### 3️⃣ Live-Score Automation *(Coming Soon)*
+### 4️⃣ Live-Score Automation *(Coming Soon)*
 **Python | Requests & Selenium | Sports Scraper**  
 Scrapes live sports scores and betting data, outputs JSON/CSV for analytics.  
 📌 [View Repo](#) *(replace with GitHub link once created)*
 
-### 4️⃣ GET-IT-DONE
-**Python | FastAPI | AI Integration**  
+### 5️⃣ Get It Done
+**Python | Flask | AI Integration**  
 Backend for intelligent task management with AI suggestions and NLP input.  
-📌 [View Repo](https://github.com/Dabeey/GET-IT-DONE)
+📌 [View Repo](https://github.com/Dabeey/GET-IT-DONE-)
 
-### 🌐 E-Commerce API
-**Tech**: Django, FastAPI, PostgreSQL, JavaScript  
+### 🌐 E-Commerce API *(Coming Soon)*
+**Tech**: Django, FastAPI, PostgreSQL 
 A robust API for e-commerce platforms, handling carts and payments efficiently.  
 **Features**: RESTful endpoints, JWT authentication, real-time inventory syncing.  
 
-### 🕵️‍♀️ Web Scraper Pro
+### 🕵️‍♀️ Web Scraper Pro *(Coming Soon)*
 **Tech**: Python, BeautifulSoup, Selenium  
 A scraper that extracts web data effectively.  
 **Features**: Dynamic content handling, pagination, JSON/CSV exports.  
@@ -97,9 +102,10 @@ A scraper that extracts web data effectively.
 ---
 
 ## 📬 Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdaughter18@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dabeey-mercy-6408a3321)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_dabeey)  
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdaughter18@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dabeey-mercy-6408a3321) 
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_dabeey)  
 
 ---
 
