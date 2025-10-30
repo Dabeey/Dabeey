@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">👋 Dabeey Mercy</h1>
-  <h3 align="center">Python Backend Developer | API & Automation Specialist | YourFavoriteBackendGirl</h3>
+  <h3 align="center">Backend & Full Stack Web Developer | Python & PHP Specialist | YourFavoriteBackendGirl</h3>
   <p align="center">
-    Delivering backend systems, APIs, and automation pipelines that scale, save time, and solve real-world problems.
+    Delivering backend and full-stack systems, APIs, web application and automation pipelines that scale, save time, and solve real-world problems.
   </p>
 </p>
 <hr>
@@ -30,15 +30,13 @@
 ![Requests](https://img.shields.io/badge/Requests-005A9C?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ⚡ Tools & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
@@ -62,6 +60,8 @@
 
 ## 🌱 Currently Learning
 
+- Advanced full-stack development
+- Advanced Backend development 
 - Microservices & scalable systems  
 - Cloud deployment (AWS / GCP)  
 - Advanced CI/CD pipelines  
