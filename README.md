@@ -74,5 +74,5 @@
 
 ---
 
-> *Minimal fluff. Maximum action. Python backend & automation ready for production.*  
+> *Minimal fluff. Maximum action. backend, web & automation ready for production.*  
 > 🌸 YourFavoriteBackendGirl
